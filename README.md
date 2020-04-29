@@ -1,24 +1,10 @@
-# README
+WEB BRUT PLAYER
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+FrontEnd:https://github.com/markdenardo/web_brut_player
+BackEnd:https://github.com/markdenardo/wb_api
 
-Things you may want to cover:
+super simple webplayer using React, ReactPlayer, and Ruby/Rails.
 
-* Ruby version
+ReactPlayer GitHub: https://github.com/CookPete/react-player
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+WIP; next feature to this project will be a form which will allow users to add to this array of videos.
