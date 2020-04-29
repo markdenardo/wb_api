@@ -1,6 +1,6 @@
 WEB BRUT PLAYER
 
-FrontEnd:https://github.com/markdenardo/web_brut_player
+FrontEnd:https://github.com/markdenardo/web_brut_player<br>
 BackEnd:https://github.com/markdenardo/wb_api
 
 super simple webplayer using React, ReactPlayer, and Ruby/Rails.
